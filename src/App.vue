@@ -12,7 +12,7 @@
 			<div class="kw-multistep">
 				<G-Step heading="Intro">
 					<b-alert variant="danger" show>
-						COVID-19 Note Rudy Serrano: Please be advised the District performs
+						COVID-19 Note Layla Serrano: Please be advised the District performs
 						property inspections on a case-by-case basis and will be
 						conducted contact-free with the resident.
 						<a
