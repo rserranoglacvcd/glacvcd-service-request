@@ -364,7 +364,7 @@
 									<div class="col">
 										<p class="mb-0">
 											GLACVCD does not respond to rodents.
-											Instead, contact the
+											Contact the
 											<a
 												href="http://www.publichealth.lacounty.gov/eh/safety/rats.htm"
 												>LA County Department of Health
