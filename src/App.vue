@@ -366,7 +366,7 @@
 											GLACVCD does not respond to rodents.
 											Instead, contact the
 											<a
-												href="http://www.publichealth.lacounty.gov/eh/SSE/Vector_Management/vmvcontrol.htm"
+												href="http://www.publichealth.lacounty.gov/eh/safety/rats.htm"
 												>LA County Department of Health
 												Services, Vector Management
 												Program</a
